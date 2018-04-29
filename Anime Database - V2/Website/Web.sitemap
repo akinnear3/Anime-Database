@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="" title=""  description="root menu">
+        <siteMapNode url="~/" title="Home"  description="" />
+        <siteMapNode url="~/AnimeDatabase/AnimeDatabase.aspx" title="Anime Database"  description="Holds all the information of stored Animes" />
+        <siteMapNode url="~/AnimeDatabase/Description.aspx" title="Possible Raitings"  description="Holds the descriptions for the anime ratings" />
+        <siteMapNode url="~/AnimeDatabase/AddAnime.aspx" title="Add Anime"  description="allows the creation of new Anime" />  
+      
+        <siteMapNode url="~/About.aspx" title="About"  description="" />
+      <siteMapNode url="~/Contact.aspx" title="Contact"  description="" />
+    </siteMapNode>
+</siteMap>

@@ -1,0 +1,12 @@
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\bin\Release\AnimeDatabase.System.dll.config
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\bin\Release\AnimeDatabase.System.dll
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\bin\Release\AnimeDatabase.System.pdb
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\bin\Release\AnimeDatabase.System.Data.dll
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\bin\Release\EntityFramework.dll
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\bin\Release\AnimeDatabase.System.Data.pdb
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\bin\Release\EntityFramework.xml
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\obj\Release\AnimeDatabase.System.csprojResolveAssemblyReference.cache
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\obj\Release\AnimeDatabase.System.dll
+C:\Users\water\Documents\Alexander Kinnear\Anime Database - Version 2\Anime Database - V2\AnimeDatabase.System\obj\Release\AnimeDatabase.System.pdb
